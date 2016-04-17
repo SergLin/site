@@ -7,7 +7,14 @@
   font-family: Airborne;
 }
 
+
 img{
-  width: 100%;
+  width: 50%;
   border-radius: 20px;
+  margin-left: 25%;
+}
+
+h1{
+  text-align: center;
+
 }
