@@ -13,7 +13,9 @@ img{
   border-radius: 20px;
   margin-left: 25%;
   display: block;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
+  -webkit-box-shadow: 5px 5px 5px 3px #0D002B;
+  box-shadow: 5px 5px 5px 3px #0D002B; 
 }
 
 h1{
@@ -34,7 +36,7 @@ h1{
   text-align: center;
   border: 1px solid blue;
 }
-
+ 
 .buton:hover{
   background-color: blue;
   color: yellow;
