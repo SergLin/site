@@ -33,5 +33,9 @@ h1{
   display: inline-block;
   text-align: center;
   border: 1px solid blue;
+}
 
+.buton:hover{
+  background-color: blue;
+  color: yellow;
 }
